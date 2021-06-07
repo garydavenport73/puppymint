@@ -1,6 +1,8 @@
 # puppymint
 A Puppy Linux program that merges a Linux Mint Menu system, a Windows 10 like system, or a custom system.
 
+<img src="Screenshot1.png">
+
 Since this is a new project I would use it on a test system until you are satisfied it will do what you want.
 Here is a basic layout of how the project works.
 
@@ -70,6 +72,8 @@ The rest of the programming is basically writing jwm files(Joe's window manager)
 
 There is also a little bash script I wrote to read in the names of .desktop files, then it makes a menu out of the first letter of the name, that does not execute anything.  This way, if there is a program that begins with A for example, there will be an "A" heading present in the menu.
 
+<img src="Screenshot2.png">
+
 I have never written bash scripts before until this project, and have learned python less than 1 year ago, as I am going into my second year as a software engineer.  So I tried to keep the code as self-documenting as possible, and it is my nature to use simple programming style.
 
 I am posting this project here so that some people can try it out and so I can get some feedback on the project.
@@ -78,4 +82,4 @@ The overall goal is to make the most usable systems on old computers so they can
 
 The source code is all available in the puppymint.tar.gz file in either bash scripts, text files, or python scripts.  I will more formally post them separately as the project develops more.
 
-![](screenshot1.png)
+
