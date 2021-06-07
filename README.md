@@ -77,3 +77,5 @@ I am posting this project here so that some people can try it out and so I can g
 The overall goal is to make the most usable systems on old computers so they can still be used and have some fun while doing it.
 
 The source code is all available in the puppymint.tar.gz file in either bash scripts, text files, or python scripts.  I will more formally post them separately as the project develops more.
+
+![](screenshot1.png)
